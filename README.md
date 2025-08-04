@@ -2,7 +2,7 @@
 
 O Projeto Refund é um aplicativo web que registra despesas em geral.
 
-[![Screenshot do Projeto](/src/assets/memberclub.png)](https://memberclub.hallanchristian.com.br)
+[![Screenshot do Projeto](https://github.com/hallancma/mba-rockeseat-sirius-projetos-10-member-club/blob/main/src/assets/member-club.png)](https://memberclub.hallanchristian.com.br)
 
 ## Visão Geral
 
